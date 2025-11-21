@@ -12,18 +12,18 @@ INSTRUCTIONS:
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> Drishti
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 <!--
 TODO:
-- Change `gaureshpai` below to YOUR GitHub username
+- Change `Drishti` below to YOUR GitHub username
 - You can also change color or style if you want
   Docs: https://komarev.com/ghpvc/
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaureshpai&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Drishti&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <!--
@@ -38,7 +38,7 @@ TODO:
   <a href="https://twitter.com/hseruag"><!-- TODO: Your Twitter/X URL (or remove) -->
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://gauresh.vercel.app"><!-- TODO: Your portfolio URL (or GitHub profile link) -->
+  <a href="https://.vercel.app"><!-- TODO: Your portfolio URL (or GitHub profile link) -->
     <img src="https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square" alt="Portfolio">
   </a>
 </p>
@@ -67,7 +67,7 @@ TODO: Write 3–4 short points about yourself.
   - Replace `gaureshpai` with YOUR Holopin username.
   - Or delete this block if you don't use Holopin.
   -->
-  <a href="https://holopin.io/@gaureshpai">
+  <a href="https://holopin.io/@gDrishti">
     <img src="https://holopin.me/gaureshpai" alt="Holopin badges">
   </a>
 
@@ -75,10 +75,10 @@ TODO: Write 3–4 short points about yourself.
 
   <!--
   TODO:
-  - Change `username=gaureshpai` to YOUR GitHub username
+  - Change `username=Drishti` to YOUR GitHub username
   -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaureshpai&theme=radical" alt="GitHub Summary Card">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drishti&theme=radical" alt="GitHub Summary Card">
   </a>
 
 </div>
@@ -91,20 +91,20 @@ TODO: Write 3–4 short points about yourself.
 
   <!--
   TODO:
-  - Change `username=gaureshpai` to YOUR GitHub username in both images
+  - Change `username=Drishti` to YOUR GitHub username in both images
   -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaureshpai&theme=default" alt="Top Languages by repo">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaureshpai&theme=default" alt="Top Languages by commit">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Drishti&theme=default" alt="Top Languages by repo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Drishti&theme=default" alt="Top Languages by commit">
 
   <br><br>
 
   <!--
   TODO:
-  - Change `username=gaureshpai` to YOUR GitHub username
+  - Change `username=Drishti` to YOUR GitHub username
   - You can change theme and show_icons at: https://github.com/anuraghazra/github-readme-stats
   -->
-  <a href="https://github.com/gaureshpai">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaureshpai&show_icons=true&theme=tokyonight" alt="GitHub stats">
+  <a href="https://github.com/Drishti">
+    <img src="https://github-readme-stats.vercel.app/api?username=Drishti&show_icons=true&theme=tokyonight" alt="GitHub stats">
   </a>
 
 </div>
@@ -119,7 +119,7 @@ TODO:
 - You can read and follow one by one.
 -->
 
-1. Replace **all occurrences** of `gaureshpai` with **your GitHub username**.  
+1. Replace **all occurrences** of `Drishti` with **your GitHub username**.  
 2. Update LinkedIn / Twitter / Portfolio links to YOUR actual links (or remove if not applicable).  
 3. Edit the **About me** section to describe YOU.  
 4. Push your changes and check how your profile looks on your GitHub profile page.  
